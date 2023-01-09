@@ -11,8 +11,8 @@ Patches: revanced-patches-2.153.0.jar
 
   
 **App Versions:**  
-Music (arm64-v8a): 5.36.51  
 YouTube: 17.49.37  
+Music (arm64-v8a): 5.36.51  
 Music (arm-v7a): 5.36.51  
 Twitter: 9.70.0-release.0  
 Reddit: 2022.45.0  
